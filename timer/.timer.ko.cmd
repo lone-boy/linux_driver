@@ -1,0 +1,1 @@
+cmd_/home/jcc/work/linux-driver/timer/timer.ko := arm-linux-gnueabihf-ld -r  -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/jcc/work/linux-driver/timer/timer.ko /home/jcc/work/linux-driver/timer/timer.o /home/jcc/work/linux-driver/timer/timer.mod.o ;  true

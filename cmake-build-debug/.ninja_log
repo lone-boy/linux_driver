@@ -1,0 +1,3 @@
+# ninja log v5
+0	38	1642744801415977595	CMakeFiles/linux_driver.dir/char_driver/chrdevbaseapp.c.o	81eca9b6eea47c
+0	41	1642744801419977533	CMakeFiles/linux_driver.dir/led_driver/ledapp.c.o	f5f16553b6adb143
