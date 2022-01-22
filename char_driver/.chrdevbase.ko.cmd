@@ -1,1 +1,0 @@
-cmd_/home/jcc/work/Linux-driver/char_driver/chrdevbase.ko := arm-linux-gnueabihf-ld -r  -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/jcc/work/Linux-driver/char_driver/chrdevbase.ko /home/jcc/work/Linux-driver/char_driver/chrdevbase.o /home/jcc/work/Linux-driver/char_driver/chrdevbase.mod.o ;  true

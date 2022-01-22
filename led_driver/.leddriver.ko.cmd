@@ -1,1 +1,0 @@
-cmd_/home/jcc/work/linux-driver/led_driver/leddriver.ko := arm-linux-gnueabihf-ld -r  -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/jcc/work/linux-driver/led_driver/leddriver.ko /home/jcc/work/linux-driver/led_driver/leddriver.o /home/jcc/work/linux-driver/led_driver/leddriver.mod.o ;  true
